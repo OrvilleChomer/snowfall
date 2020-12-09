@@ -15,7 +15,7 @@ That my friends is all there's to it. Your page will have multi-layered animated
 
 ### Adding a Parallax Effect to your Page
 To add a parallax effect to the page when the user moves their mouse over it, add the following
-line of code before the script tag for the snowfall.js...
+line of code *before* the script tag for the snowfall.js...
 ```
 <script src="https://orvillechomer.github.io/myCDN/simpleParallax.js"></script>
 ```
