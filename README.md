@@ -2,7 +2,7 @@
 JS Library that lets you easily add multiple animated layers of falling snow to your web page.
 
 Add the following line of code to your web page:
-```
+```html
 <script src="https://orvillechomer.github.io/myCDN/snowfall.js"></script>
 ```
 
