@@ -13,5 +13,5 @@ const snowfall = new Snowfall()
 
 That my friends is all there's to it. Your page will have multi-layered animated snowfall on your page!
 
-##Adding a Parallax Effect to your Page
+## Adding a Parallax Effect to your Page
 ddd
