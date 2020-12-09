@@ -19,3 +19,6 @@ line of code *before* the script tag for the snowfall.js...
 ```
 <script src="https://orvillechomer.github.io/myCDN/simpleParallax.js"></script>
 ```
+
+You now will have a page displaying multiple layers of falling snow that has a parallax effect as the user moves 
+their mouse over it!
